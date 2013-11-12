@@ -1,0 +1,15 @@
+Título: Creador de partida.
+
+
+Como cliente
+
+
+Para que el juego sea más rápido
+
+
+
+Un jugador crea la partida y sienta a esperar a que otros jugadores completen el tablero. 3 jugadores mínimo. Si lleva 
+algún tiempo determinado esperando o si lo desea se autocompleta con jugadores máquina.
+
+Estimacion: 20
+Prioridad: 10

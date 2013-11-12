@@ -1,0 +1,13 @@
+Registro para jugar:
+
+
+Como un Jefe
+
+
+Para que sea más adictivo y jueguen más (para que pasen más tiempo en la plataforma)
+
+
+Quiero que sea necesario para jugar que la persona se registe pudiendo hacerlo a través de las RRSS, creando un usuario en la plataforma para que almacene sus datos, puntuación y logros
+
+Estimacion 2(base de datos como la sqlite3 que nos ofrece django)-13(hacer nuestra propia base de datos)
+PRIORIDAD: 10

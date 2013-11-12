@@ -1,0 +1,12 @@
+Título:	Reproduccion de Partidas
+
+Como: Usuario
+
+Para que los Usuarios puedan ver partidas que han sido jugadas
+Para que se pueda ver una partida que ya se ha jugado, ya sea para aprender o por curiosidad
+
+
+Quiero poder guardar los pasos de una partida en la base de datos para poder verla mas adelante cualquier persona.
+Quiero poder grabar partidas mientras se estan jugando para despues poder reproducirlas. Con posibilidad de botones, next y prev para controlar movimientos
+
+Estimacion: 3

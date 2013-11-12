@@ -1,0 +1,16 @@
+Límite de tiempo:
+
+
+Como un Jugador
+
+
+Para que las partidas sean fluidas
+Para que no me vea afectado por la expulsión o retirada de otro jugador
+
+
+Cuando un jugador es expulsado de una partida por pasivo, un nuevo jugador reserva entrará en la partida sustituyendo a este jugador expulsado, empezando en el mismo estado de partida en el que lo dejo el jugador expulsado.
+Quiero poder continuar la partida con normalidad y con el mismo número de jugadores si un jugador es expulsado de una partida o la abandona
+Quiero que un jugador sea expulsado de la partida si tarda más de un determinado tiempo en realizar su jugada
+
+
+Estimacion: 3
